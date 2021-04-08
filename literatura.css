@@ -1,0 +1,35 @@
+div  {
+height:550px;
+width:100%;
+background-color:black;
+
+display:block;
+border:0px solid black;
+}
+
+p  { 
+font-size:16px;
+font-family:arial;
+color:white;
+background-color:black;
+}
+
+li  {
+ font-size:16px;
+font-family:arial;
+color:white;
+background-color:black;
+}
+
+h1 { 
+
+background-color:black;
+color:white;
+text-align:center;
+}
+ 
+img { 
+height:35%;
+width:50%;
+margin-left:150px;
+}

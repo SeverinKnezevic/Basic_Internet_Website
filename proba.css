@@ -1,0 +1,20 @@
+﻿table { 
+border:2px solid black;
+height:180%;
+width:70%;
+margin:auto;
+display:block;
+color;red;
+}
+
+td {
+border: 10px solid black;
+
+margin:auto;
+backgroun-color:red;
+}
+img {
+color:red;
+height:100px;
+width:100px;
+}

@@ -1,0 +1,188 @@
+body {
+	background-image:URL("wall2.jpg");
+}
+
+table {
+	border:1px solid white;
+	position:center;
+	height:400px;
+	width:80%;
+	margin:auto;
+	text-align:center;
+	border-radius:8px;
+}
+
+td {                                                
+	border:1px solid white;     
+}
+
+.prvi1 {                              /* sat */   
+	width:15%;
+	height:80px;
+}
+
+.drugi1 {                             /* Naslov */
+	color:red;
+}
+
+.treći1 {                               /*slika*/
+	width:25%;
+	height:80px;
+}
+
+#naslov  {                                                  
+	background-color:black;
+	margin:auto;
+	color:white;
+	text-decoration:none;
+	font-family:Helvetica;
+}
+
+
+
+.bok:hover{                                          
+	background-color:#CC0000;
+}
+
+.bok2:hover{
+	background-color:#CC0000;
+}
+
+.bok3:hover{
+	background-color:#CC0000;
+}
+
+audio {
+	color:black;
+}
+
+.zadnje {
+	height:15%;
+	margin:auto;
+	background-color:withe;
+	position:above;
+	border: 0px solid black;
+}
+
+img{
+	border-radius:5px;
+}
+
+#meni {
+	background-color:black;
+	color:red;
+}
+
+#naslov1 {
+	background-color:black;
+	margin:auto;
+	color:white;
+	text-decoration:none;
+	font-family:Helvetica;
+	height:600px;
+}
+
+
+
+#naslov2 { 
+	background-color:black;
+	margin:auto;
+	color:white;
+	text-decoration:none;
+	font-family:Helvetica;
+	font-size:15px;
+}
+
+a:visited {
+	color:red; 
+	}
+
+a:hover {
+	color:yellow;
+	}
+
+a {
+	color:red; 
+	}
+
+
+a:active {
+	color:#00FF00; 
+}
+
+#citat {
+	height:10px;
+	color:black;
+	background-color:white;
+}
+
+h1 {
+    text-shadow: 2px 2px white;
+}
+
+.class  {
+	position:top;
+	background-color:red;
+}
+
+#gif {
+	width:100%;
+	height:100%;
+	position:top;
+	margin-bottom:190px;
+	margin-top:80px;
+}
+
+.bok  {
+	border:2px dotted white;
+	margin-left:2px;
+	margin-right:2px;
+	margin-top:4px;
+	margin-bottom:10px;
+	background-color:red;
+	padding:5px;
+	position:top;
+}
+
+.bok2 {
+	border:2px dotted white;
+	margin-left:2px;
+	margin-right:2px;
+	margin-top:60px;
+	margin-bottom:10px;
+	background-color:red;
+	padding:5px;
+}
+
+.bok3  {
+	border:2px dotted white;
+	margin-left:2px;
+	margin-right:2px;
+	margin-top:4px;
+	margin-bottom:10px;
+	background-color:red;
+	padding:5px;
+}
+
+iframe {
+	border:0 solid black;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+
+span {
+	text-shadow: 2px 2px red;
+}
+
+
+#pregledi {
+
+	margin-top:190px;
+	margin-bottom:2px;
+	margin-left:auto;
+	margin-right:auto;
+}
+

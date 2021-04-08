@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="shortcut icon" href="icon.ico">
+<meta charset="UTF-8">
+<link type="text/css" rel="stylesheet" href="style01.css">
+<title>RAM</title>
+</head>
+<body > 
+
+<table>
+
+
+ <tr  id="naslov">                  <!--naslov-->
+ <td class="prvi1"> </td>
+ <td class="drugi1" colspan="5"><h1> RAM Memorija </h1></td>
+ <td class="treæi1"><img src="http://bim9.com/wp-content/uploads/2012/01/RAM_SM.png" height="100" width="100">
+
+</td>
+ </tr>
+ 
+ <tr>                <!--izbornik-->
+ <td id="naslov">
+     <a href="https://www.facebook.com/" target="black" ><img src="http://lolopeakbrewery.com/wp-content/uploads/2014/11/facebook-logo.jpg" width="20" height="20" target="black"></a>
+	 <a href="https://instagram.com/" target="black"><img src="http://a4.mzstatic.com/us/r30/Purple1/v4/da/96/ab/da96ab96-8699-495d-4af6-d8215662d449/icon320x320.png"width="20" height="20" target="black" ></a>
+	 <a href="https://www.gmail.com/intl/hr/mail/help/about.html" target="black"><img src="http://icons.iconarchive.com/icons/marcus-roberto/google-play/512/Gmail-icon.png"width="20" height="20" target="black" ></a>
+	 <a href="https://www.youtube.com/" target="black" ><img src="http://www.orvital.it/library/pagination/icons/YouTube-icon.png"width="20" height="20" target="black"></a>
+ </td>
+ <td id="meni"><a href="#"target="opis"> POÈETNA</a></td>
+ <td id="meni"><a href="#"target="opis">TEMA</a></td>
+ <td id="meni"><a href="#" target="opis">POD NASLOV</a></td>
+ <td id="meni"><a href="#"target="opis">POD NASLOV2</a></td>
+ <td id="meni"><a href="#"target="opis">LITERATURA</a></td>
+ <td id="naslov"> 
+ <form method="get" action="https://www.google.hr/">
+ <input type="text" name="q" placeholder="Tražilica"/>
+ <input type="submit" value=" GO!"/>
+ </form>
+ 
+ 
+ </td>
+ </tr>
+ 
+ <tr >                <!--veliki dio-->
+ <td id="naslov1" rowspan="2">
+<a href="#" style="color:white" target="opis"> <div class="bok"> SLIKE </div></a>
+ <a href="#" style="color:white" target="opis" ><div class="bok"> VIDEO </div></a>
+ <a href="#" style="color:white" target="opis"><div class="bok2">O autoru </div></a>
+ <a href="#" style="color:white"target="opis"><div class="bok3"> Kontakt </div></a>
+ 
+ </td>
+ <td colspan="5" ><iframe height="100%" width="100%" name="opis" > </iframe>  </td>
+ <td id="naslov1" rowspan="2">
+<div class="gif"> 
+<img id="gif" src="http://api.ning.com/files/czF6wJsbSj0P25SHVr8Gqvgyo1Yq9h3NoYQM-agMEvGcWp-31*uYAprV1fGkRT8l9V-IIpckVtaLIrbOcTlJabBKxoc3RuK9/WelcomeAnimated3.gif">
+</div>
+</tr>
+
+<tr>                <!--citat-->
+
+<td id="citat" colspan="5"  ><marquee><b> Dragi posjetitelji, želim Vam srdaènu dobrodošlicu na moju web stranicu</b></marquee></td>
+
+</tr>
+
+<tr>                 <!--dno-->
+<td id="naslov" colspan="6" ></br> 
+<a href="http://fpmoz.ba/new/" target="black"> FPMOZ  </a> | 
+<a href="http://nastava.fpmoz.ba/fpmoz/index.php" target="black"> Moodle </a> |
+<a href="http://knezevic.comlu.com/" target="black" > DZ</a>
+ </br> </td>
+
+
+
+<td id="naslov2"   ><p> Autor: Severin Kneževiæ</p></td>
+
+</tr>
+<tr>
+<td class="zadnje" colspan="7">
+<audio autoplay controls>
+  <source src="pjesma.ogg" type="audio/ogg">
+  <source src="pjesma.mp3" type="audio/mpeg">
+ 
+</audio> </td>
+
+</table>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------
+
+
+body {
+background-image:URL("http://www.wallpaperhd.website/wp-content/uploads/2013/09/background.png");
+http://fc04.deviantart.net/fs70/i/2012/269/b/a/wood_planks___d632_by_agf81-d5fz4zl.jpg
+"http://flightboys.com/wp-content/uploads/2014/10/hd-wallpaper-background-point-wallpapers-wallpaper-hd-backround-wallpaperscool-wallpapers-space-nature-windows-wood-music-background-point.jpg
+}
+
+table {
+border:1px solid white;
+position:center;
+height:400px;
+width:80%;
+margin:auto;
+text-align:center;
+border-radius:8px;
+
+}
+
+td {
+border:1px solid white;
+
+}
+
+.prvi1 {
+width:15%;
+height:80px;
+}
+
+.drugi1 {
+color:red;
+}
+
+.treæi1 {
+width:25%;
+height:80px;
+}
+
+#naslov  {
+background-color:black;
+margin:auto;
+color:white;
+text-decoration:none;
+font-family:Helvetica;
+}
+
+audio {
+color:black;
+}
+.zadnje {
+height:15%;
+margine:auto;
+background-color:withe;
+position:above;
+border: 0px solid black;
+}
+
+img{
+border-radius:5px;
+}
+
+#meni {
+background-color:black;
+color:red;
+}
+
+#naslov1 {
+background-color:black;
+margin:auto;
+color:white;
+text-decoration:none;
+font-family:Helvetica;
+height:550px
+}
+
+#naslov2 { 
+background-color:black;
+margin:auto;
+color:white;
+text-decoration:none;
+font-family:Helvetica;
+font-size:15px;
+}
+
+a {
+color:red; }
+
+#citat {
+height:10px;
+color:black;
+background-color:white;
+
+}
+
+h1 {
+    text-shadow: 2px 2px white;
+}
+
+.class  {
+position:top;
+background-color:red;
+}
+#gif {
+width:100%;
+height:100%;
+position:top;
+}
+
+.bok  {
+border:2px dotted white;
+margin-left:2px;
+margin-right:2px;
+margin-top:4px;
+margin-bottom:10px;
+background-color:red;
+padding:5px;
+position:top;
+
+}
+
+.bok2 {
+border:2px dotted white;
+margin-left:2px;
+margin-right:2px;
+margin-top:60px;
+margin-bottom:10px;
+background-color:red;
+padding:5px;
+}
+
+.bok3  {
+border:2px dotted white;
+margin-left:2px;
+margin-right:2px;
+margin-top:4px;
+margin-bottom:10px;
+background-color:red;
+padding:5px;
+
